@@ -1,0 +1,20 @@
+
+h1 {
+   text-align: center;
+   text-decoration: underline;
+}
+button:hover {
+    color: blue;
+}
+table{
+    margin-left: 600px;
+}
+input{
+    color: rgb(151, 147, 147);
+}
+.cl1{
+    margin-left: 600px;
+}
+.cl2{
+    margin-left: 6px;
+}
